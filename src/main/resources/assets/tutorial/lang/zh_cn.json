@@ -1,0 +1,10 @@
+{
+  "item.tutorial.tutorial" : "教程之钻",
+  "item.tutorial.refined_tutorial" : "精制教程之钻",
+
+  "block.tutorial.tutorial_block" : "教程钻块",
+  "block.tutorial.tutorial_ore" : "教程矿",
+  "block.tutorial.deepslate_tutorial_ore" : "深层教程矿",
+
+  "itemGroup.tutorial.tutorial" : "教程之页"
+}

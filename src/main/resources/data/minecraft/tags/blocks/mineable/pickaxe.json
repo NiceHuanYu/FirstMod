@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tutorial:deepslate_tutorial_ore",
+    "tutorial:tutorial_ore",
+    "tutorial:tutorial_block"
+  ]
+}

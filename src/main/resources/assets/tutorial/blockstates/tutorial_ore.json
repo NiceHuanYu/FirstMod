@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "" : {
+      "model" : "tutorial:block/tutorial_ore"
+    }
+  }
+}

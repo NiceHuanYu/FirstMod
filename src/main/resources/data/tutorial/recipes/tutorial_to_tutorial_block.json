@@ -1,0 +1,17 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key" : {
+    "#" : {
+      "item" : "tutorial:tutorial"
+    }
+  },
+  "result" : {
+    "item" : "tutorial:tutorial_block",
+    "count" : 1
+  }
+}

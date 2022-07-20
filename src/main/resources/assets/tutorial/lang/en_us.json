@@ -1,0 +1,10 @@
+{
+  "item.tutorial.tutorial" : "Tutorial",
+  "item.tutorial.refined_tutorial" : "Refined Tutorial",
+
+  "block.tutorial.tutorial_block" : "Tutorial Block",
+  "block.tutorial.tutorial_ore" : "Tutorial Ore",
+  "block.tutorial.deepslate_tutorial_ore" : "Deepslate Tutorial Ore",
+
+  "itemGroup.tutorial.tutorial" : "TUTORIAL PAGE"
+}

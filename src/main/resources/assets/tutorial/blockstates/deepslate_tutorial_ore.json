@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "" : {
+      "model" : "tutorial:block/deepslate_tutorial_ore"
+    }
+  }
+}
